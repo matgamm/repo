@@ -1,1 +1,1 @@
-
+print("Tu Dominik")
